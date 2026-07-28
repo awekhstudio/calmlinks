@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 450" role="img" aria-labelledby="title desc">
+  <title id="title">Quietly Made podcast cover placeholder</title>
+  <desc id="desc">Calm abstract shapes with the words Quietly Made</desc>
+  <rect width="720" height="450" fill="#dfe3dc"/>
+  <circle cx="590" cy="84" r="142" fill="#b8c0b6"/>
+  <circle cx="104" cy="406" r="196" fill="#c8cec5"/>
+  <path d="M273 0h190L350 450H160z" fill="#edf0eb" opacity=".72"/>
+  <text x="56" y="88" fill="#2f463b" font-family="Georgia, serif" font-size="52">Quietly</text>
+  <text x="56" y="142" fill="#2f463b" font-family="Georgia, serif" font-size="52">Made</text>
+  <text x="60" y="182" fill="#5f6d64" font-family="Arial, sans-serif" font-size="14" letter-spacing="3">A PODCAST ABOUT THOUGHTFUL WORK</text>
+</svg>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://awekh-studio.github.io/calmlinks/sitemap.xml
